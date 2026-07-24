@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+build
+bun.lock
+coverage
+*.tsbuildinfo
+next-env.d.ts
+.vscode
